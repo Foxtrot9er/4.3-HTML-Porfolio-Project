@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>"My Resume"</title>
+    </head>
+
+    <body>
+        <h1>My Resume</h1>
+        <hr>
+        <h2>My experience and education|</h2>
+        <h3>Education</h3>
+    <ul>
+        <li>Graduated from Soldier Creek Academy in 2023</li>
+    </ul>
+        <h3>Job Experience</h3>
+    <ul>
+        <li>Snow Shop Attendant for Daniels Summet Lodge.
+          <br>-Snowmobile rental department
+            <ul>
+                <li>Tasked with accepting the costomers 
+                    rental forms, getting the costomers
+                    the gear they need, making sure they 
+                    understand how to opperate the 
+                    snowmobile,
+                </li>
+        </li>
+    </ul>
+    </body>    
+</html>
